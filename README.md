@@ -31,17 +31,12 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```javascript
-const samarth = {
-  name: "Samarth Shirahatti",
-  role: "Full Stack Developer",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  currentlyLearning: "DSA & System Design",
-  lookingFor: "Collaborations on MERN apps",
-  funFact: "I build projects that solve real problems 🚀",
-  contact: "samarthgone667@gmail.com"
-};
-```
+- 🔭 Working on **Full Stack projects** (FinTech & knowledge apps)
+- 👯 Looking to collaborate on **MERN stack applications**
+- 🌱 Currently practicing **Data Structures and Algorithms**
+- 💬 Ask me about **React, Node.js, MongoDB**
+- ⚡ Fun fact: I build projects that **solve real problems 🚀**
+- 📫 Reach me at **samarthgone667@gmail.com**
 
 <br clear="right"/>
 
