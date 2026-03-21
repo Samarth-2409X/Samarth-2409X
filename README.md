@@ -40,12 +40,6 @@
 
 <br clear="right"/>
 
-- 🔭 Working on **Full Stack projects** (FinTech & knowledge apps)
-- 👯 Looking to collaborate on **MERN stack applications**
-- 🌱 Currently practicing **Data Structures and Algorithms**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- ⚡ Fun fact: I like building projects that **solve real problems 🚀**
-
 ---
 
 ## 🌐 Connect With Me
