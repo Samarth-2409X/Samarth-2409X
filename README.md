@@ -1,3 +1,7 @@
+# Hi 👋 I'm Samarth
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Real+World+Projects)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack projects (FinTech & knowledge apps)<br><br>👯 I’m looking to collaborate on MERN stack applications<br><br>🤝 I’m looking for help with backend improvements and project optimization<br><br>🌱 I’m currently practicing Data Structures and Algorithms<br><br>💬 Ask me about React, Node.js, MongoDB, and building real-world apps<br><br>⚡ Fun fact: I like building projects that solve real problems 🚀<br>
 
