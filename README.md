@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Samarth%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20DSA%20Problem Solver&descAlignY=55&descSize=18"/>
+<!-- 🔥 Animated Gradient Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:00d9ff&text=Samarth%20Shirahatti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20200%2B%20LeetCode%20%7C%20MERN%20Stack&descAlignY=60&descSize=18"/>
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Developer;💡+MERN+Stack+Enthusiast;🧠+DSA+Problem+Solver;🔧+Building+Real+World+Projects;⚡+Let's+build+something+awesome!)](https://git.io/typing-svg)
+<!-- ⚡ Typing Animation (SYNCED STYLE) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Building+Real-World+Applications;💻+MERN+Stack+Developer;🧠+200%2B+LeetCode+Problems+Solved;⚡+Focused+on+Scalable+Systems" />
+
 
 <br/>
 
