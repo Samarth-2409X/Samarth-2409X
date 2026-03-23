@@ -31,11 +31,11 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Working on **Full Stack projects** (FinTech & knowledge apps)
-- 👯 Looking to collaborate on **MERN stack applications**
-- 🌱 Currently practicing **Data Structures and Algorithms**
+- 🔭 Working on ExileDraw — a real-time chat application
+- 👯 Open to collaborating on MERN stack projects
+- 🌱 Solved 200+ LeetCode problems and improving DSA
 - 💬 Ask me about **React, Node.js, MongoDB**
-- ⚡ Fun fact: I build projects that **solve real problems 🚀**
+- ⚡ I enjoy building products that solve real-world problems 🚀
 - 📫 Reach me at **samarthgone667@gmail.com**
 
 <br clear="right"/>
