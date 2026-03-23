@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Samarth%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20DSA%20Problem%20 Solver&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Samarth%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20DSA%20Problem Solver&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Developer;💡+MERN+Stack+Enthusiast;🧠+DSA+Problem+Solver;🔧+Building+Real+World+Projects;⚡+Let's+build+something+awesome!)](https://git.io/typing-svg)
