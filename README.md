@@ -95,24 +95,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 LeetCode Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samarth-2409X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Samarth-2409X&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-2409X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Samarth-2409X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://leetcard.jacoblin.cool/Samarth7777?theme=dark&font=FiraCode&ext=heatmap" />
 
 </div>
 
