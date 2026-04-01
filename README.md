@@ -115,7 +115,7 @@
 
 ---
 
-<!-- Animated Footer Wave -->
+
 <div align="center">
 
 ### 💡 Random Dev Quote
