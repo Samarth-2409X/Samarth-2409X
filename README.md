@@ -12,7 +12,6 @@
 
 ---
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samarth-2409X/Samarth-2409X/output/github-snake-dark.svg" />
@@ -25,16 +24,42 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
 
-- 🔭 Working on ExileDraw — a real-time chat application
-- 👯 Open to collaborating on MERN stack projects
-- 🌱 Solved 200+ LeetCode problems and improving DSA
-- 💬 Ask me about **React, Node.js, MongoDB**
-- ⚡ I enjoy building products that solve real-world problems 🚀
-- 📫 Reach me at **samarthgone667@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A66CFF&center=true&vCenter=true&width=700&height=50&lines=Hey+there!+I'm+Samarth+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+real-world+apps+that+matter+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95" />
 
-<br clear="right"/>
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" />
+
+<br/><br/>
+
+</div>
+
+```yaml
+Name       : Samarth Shirahatti
+Role       : Full Stack Developer
+Stack      : MERN — MongoDB · Express · React · Node.js
+LeetCode   : 200+ problems solved
+Currently  : Building ExileDraw (Real-time chat app)
+Open To    : MERN stack collaborations
+Ask Me     : React, Node.js, MongoDB
+Email      : samarthgone667@gmail.com
+```
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=5F2EEA&center=true&vCenter=true&width=500&height=30&lines=%E2%9A%A1+I+build+products+that+solve+real+problems;%F0%9F%A7%A0+Always+learning%2C+always+shipping;%F0%9F%8C%B1+DSA+grind+never+stops;%F0%9F%94%A5+Currently+building+ExileDraw" />
+
+<br/><br/>
+
+[![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-A66CFF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Samarth-2409X)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-5F2EEA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/Samarth7777)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collab-27ae60?style=for-the-badge&labelColor=1a1a2e)](mailto:samarthgone667@gmail.com)
+
+</div>
 
 ---
 
@@ -55,41 +80,59 @@
 
 <div align="center">
 
-**Languages**
+### 🗣️ Languages
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| JavaScript | TypeScript | C++ | C | HTML5 | CSS3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js" width="48"/> | <img src="https://skillicons.dev/icons?i=ts" width="48"/> | <img src="https://skillicons.dev/icons?i=cpp" width="48"/> | <img src="https://skillicons.dev/icons?i=c" width="48"/> | <img src="https://skillicons.dev/icons?i=html" width="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48"/> |
 
-**Frontend**
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+| React | Next.js | Tailwind CSS | React Router |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=redux" width="48"/> |
 
-**Backend**
+### ⚙️ Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+| Node.js | Express.js | REST APIs | JWT Auth |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=express" width="48"/> | <img src="https://skillicons.dev/icons?i=graphql" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> |
 
-**Databases**
+### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+| MongoDB | MySQL | PostgreSQL |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="48"/> | <img src="https://skillicons.dev/icons?i=mysql" width="48"/> | <img src="https://skillicons.dev/icons?i=postgres" width="48"/> |
 
-**Tools**
+### 🛠️ Tools & DevOps
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+| Git | GitHub | NPM | Vite | VS Code |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=npm" width="48"/> | <img src="https://skillicons.dev/icons?i=vite" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> |
+
+</div>
+
+---
+
+## 📊 GitHub Contributions & Stats
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samarth-2409X&theme=tokyonight" />&nbsp;<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarth-2409X&theme=tokyonight" />
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Samarth-2409X&theme=tokyonight&hide_border=true&background=0D1117&stroke=5F2EEA&ring=A66CFF&fire=FF6B6B&currStreakLabel=A66CFF&sideLabels=A66CFF&dates=888888)
+
+<br/>
+
+[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-2409X&theme=tokyo-night&hide_border=true&area=true&area_color=5F2EEA&line=A66CFF&point=ffffff&color=A66CFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth-2409X&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -104,17 +147,6 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-2409X&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 
 <div align="center">
 
