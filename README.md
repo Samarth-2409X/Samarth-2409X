@@ -122,6 +122,7 @@ Email      : samarthgone667@gmail.com
 
 <br/>
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Samarth-2409X&theme=tokyonight&hide_border=true&background=0D1117&stroke=5F2EEA&ring=A66CFF&fire=FF6B6B&currStreakLabel=A66CFF&sideLabels=A66CFF&dates=888888)
 
 <br/>
@@ -129,10 +130,6 @@ Email      : samarthgone667@gmail.com
 [![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-2409X&theme=tokyo-night&hide_border=true&area=true&area_color=5F2EEA&line=A66CFF&point=ffffff&color=A66CFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samarth-2409X&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
