@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2E1A47,50:5F2EEA,100:A66CFF&text=Samarth%20Shirahatti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20200%2B%20LeetCode%20%7C%20MERN%20Stack&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A66CFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+Real-World+Applications;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A7%A0+200%2B+LeetCode+Problems+Solved;%E2%9A%A1+Focused+on+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A66CFF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+Real-World+Applications;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A7%A0+300%2B+LeetCode+Problems+Solved;%E2%9A%A1+Focused+on+Scalable+Systems" />
 
 <br/>
 
