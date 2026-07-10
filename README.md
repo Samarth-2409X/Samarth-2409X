@@ -41,7 +41,6 @@ Name       : Samarth Shirahatti
 Role       : Full Stack Developer
 Stack      : MERN — MongoDB · Express · React · Node.js
 LeetCode   : 300+ problems solved
-Currently  : Building ExileDraw (Real-time chat app)
 Open To    : MERN stack collaborations
 Ask Me     : React, Node.js, MongoDB
 Email      : samarthgone667@gmail.com
