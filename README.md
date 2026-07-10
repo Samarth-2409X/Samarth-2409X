@@ -55,7 +55,7 @@ Email      : samarthgone667@gmail.com
 <br/><br/>
 
 [![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-A66CFF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Samarth-2409X)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-5F2EEA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/Samarth7777)
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-5F2EEA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/Samarth7777)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Collab-27ae60?style=for-the-badge&labelColor=1a1a2e)](mailto:samarthgone667@gmail.com)
 
 </div>
