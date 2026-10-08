@@ -117,20 +117,13 @@ Email      : samarthgone667@gmail.com
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samarth-2409X&theme=tokyonight" />&nbsp;<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarth-2409X&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samarth-2409X&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-2409X&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Samarth-2409X&theme=tokyonight&hide_border=true&background=0D1117&stroke=5F2EEA&ring=A66CFF&fire=FF6B6B&currStreakLabel=A66CFF&sideLabels=A66CFF&dates=888888)
-
-<br/>
-
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth-2409X&theme=tokyo-night&hide_border=true&area=true&area_color=5F2EEA&line=A66CFF&point=ffffff&color=A66CFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-</div>
 
 ---
 
